@@ -133,6 +133,8 @@ class ChooseReceiverActivity : AppCompatActivity() {
     private fun listenForData() {
 
         for ( i in 0 until UserInformation.listFollowing.size) {
+
+
             val userDb: DatabaseReference = Firebase.database.reference
                 .child("users").child(UserInformation.listFollowing[i])
 

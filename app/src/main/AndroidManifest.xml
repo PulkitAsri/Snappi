@@ -9,26 +9,28 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/snapchat"
+        android:icon="@mipmap/snapchatlogo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/snapchat"
+        android:roundIcon="@mipmap/snapchatlogo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ChooseReceiverActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".ChooseReceiverActivity" android:screenOrientation="portrait"/>
         <activity android:name=".ImageDisplayActivity" android:screenOrientation="portrait" />
         <activity android:name=".FindUsersActivity" android:screenOrientation="portrait"/>
         <activity android:name=".CapturedImageActivity" android:screenOrientation="portrait" />
         <activity android:name=".LoginActivity" android:screenOrientation="portrait" />
         <activity android:name=".SignUpActivity" android:screenOrientation="portrait"/>
         <activity android:name=".ChooseLoginActivity" android:screenOrientation="portrait"/>
-        <activity android:name=".SplashScreenActivity" android:screenOrientation="portrait">
+        <activity android:name=".SplashScreenActivity" android:screenOrientation="portrait"
+            android:theme="@style/SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" android:screenOrientation="portrait" />
+        <activity android:name=".MainActivity" android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"/>
     </application>
 
 </manifest>

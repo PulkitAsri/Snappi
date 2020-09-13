@@ -91,7 +91,7 @@ class ChatFragment:Fragment(){
 
             }
             override fun onCancelled(error: DatabaseError) {}
-
+        
 
         })
 
@@ -103,7 +103,6 @@ class ChatFragment:Fragment(){
 
     }
     private fun clear() {
-        val size=this.results.size
         this.results.clear()
         adapter.notifyDataSetChanged()
 

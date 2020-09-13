@@ -3,4 +3,9 @@
 
     <item
         android:drawable="@color/WHITE"/>
+    <item>
+        <bitmap
+            android:src="@drawable/snapchatlogo"
+            android:gravity="center"/>
+    </item>
 </layer-list>
