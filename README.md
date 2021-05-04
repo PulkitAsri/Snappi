@@ -1,10 +1,10 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 Using the *cameraX API* and its features , saving the image to your phone , sending it to other people as one view image and delete itself
 
 
-### Features
+## Features
 
 * []()Using the *cameraX API* and its features
 * []()Saving the image to your phone
@@ -12,14 +12,14 @@ Using the *cameraX API* and its features , saving the image to your phone , send
 * []()Add to story for 24 hours
 * []()Sending it to other people as one view image and Delete itself from the chat after viewing it 
 
-<h3>Signup/Sigin pages</h3>
+<h2>Signup/Sigin pages</h2>
 <p float="left">
 <img src="https://user-images.githubusercontent.com/68493943/117046289-25403d80-ad2e-11eb-8450-f1c005c93f34.jpg" alt="drawing" width="200"/>
 <img src="https://user-images.githubusercontent.com/68493943/117046301-296c5b00-ad2e-11eb-8dd1-6182f1c6d932.jpg" alt="drawing" width="200"/>
 <img src="https://user-images.githubusercontent.com/68493943/117046310-2d987880-ad2e-11eb-8e57-77d3cc37ca20.jpg" alt="drawing" width="200"/>
 </p>
 
-<h3>Homescreen with the Camera, Chat, Story fragment</h3>
+<h2>Homescreen with the Camera, Chat, Story fragment</h2>
 <p float="left">
 <img src="https://user-images.githubusercontent.com/68493943/116426612-e5c2ae80-a860-11eb-8fd0-54cd8c0b1635.jpg" alt="drawing" width="200"/>
 <img src="https://user-images.githubusercontent.com/68493943/116426662-ef4c1680-a860-11eb-9f74-f1ccbe5ff0b7.jpg" alt="drawing" width="200"/>
@@ -31,7 +31,7 @@ Using the *cameraX API* and its features , saving the image to your phone , send
 <img src="https://user-images.githubusercontent.com/68493943/116426755-0559d700-a861-11eb-8a32-5bcff0d76c90.jpg" alt="drawing" width="200"/>
 </p>
 
-<h3>After Capturing an Image.</h3>
+<h2>After Capturing an Image.</h2>
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/68493943/116426774-07bc3100-a861-11eb-8a49-0a55db77d493.jpg" alt="drawing" width="200"/>
